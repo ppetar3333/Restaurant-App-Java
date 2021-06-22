@@ -1,2 +1,3 @@
 # restaurantAppJava
-This is a basic app for restaurant menu.
+
+This is a basic java app for restaurant menu.
