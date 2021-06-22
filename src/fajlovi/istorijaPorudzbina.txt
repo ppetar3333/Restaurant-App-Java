@@ -1,0 +1,11 @@
+1,sto1,2021-06-12T18:40:26.458052,Nista,Con_Pollo,Nista,Nista,Nista,Nista,Nista,1200.0,true
+2,sto1,2021-06-12T18:41:55.557778,Nista,Con_Pollo,Nista,Nista,Nista,Nista,Nista,135.0,true
+3,sto4,2021-06-12T18:42:08.553883,Nista,Nista,Nista,Nista,Nista,Nista,Nista,220.0,true
+4,sto2,2021-06-12T18:43:20.324410,Nista,Nista,Nista,Nista,Nista,Nista,Nista,370.0,true
+5,sto1,2021-06-12T18:46:40.715255,Nista,Nista,Nista,Nista,Nista,Nista,Nista,0.0,true
+6,sto3,2021-06-12T18:02:40.715232500,Nista,Nista,Nista,Nista,Nista,Nista,Nista,0.0,true
+7,sto1,2021-06-12T21:35:49.003071,Italiana,Con_Pollo,Nista,Nista,CocaCola,Nista,Nista,0.0,true
+8,sto1,2021-06-12T21:38:38.295921,Vesuvio,Nista,Nista,Kecap,Nista,Nista,Nista,633,true
+9,sto4,2021-06-12T21:39:16.925574,Nista,Nista,Nista,Nista,Nista,Nista,Nista,0,true
+10,sto1,2021-06-12T22:01:17.787923,Nista,Nista,Nista,Nista,Fanta,Nista,Nista,381,true
+11,sto1,2021-06-13T19:23:09.205992,Nista,Carbonara,Nista,Majonez,Nista,Nista,Rosa,0,false
