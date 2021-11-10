@@ -1,3 +1,3 @@
-# restaurantAppJava
+# Java Desktop App
 
-This is a basic java app for restaurant menu.
+> This app is created just for fun. It's about italian restaurant and user interaction with UI.
